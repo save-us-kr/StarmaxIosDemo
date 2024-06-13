@@ -1,4 +1,1 @@
 # StarmacIosDemo
-
-```Swift
-```
